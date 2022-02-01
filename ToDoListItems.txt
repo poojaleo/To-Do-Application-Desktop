@@ -1,0 +1,6 @@
+Email Subscribers	Email subscribers regarding new update	05-02-2022
+Work on Project B	Update 3 classes X, Y, Z in Project B	08-02-2022
+Watch video	Watch video C for understanding the concept of threads	04-02-2022
+Create Business Proposal	Complete business proposal for future investments	05-12-2021
+Finish Website Designing	Complete the website Designing for Client ABC	01-02-2022
+Prepare for Interview	Read notes and practice data structures	08-02-2022
